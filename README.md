@@ -6,7 +6,7 @@ Welcome to my portfolio! This is a showcase of my skills, projects, and professi
 
 ## Features
 
-* "Clean and Responsive Design": Built with modern web technologies, ensuring seamless performance across various devices.
+* ### Clean and Responsive Design: Built with modern web technologies, ensuring seamless performance across various devices.
 
 
 
