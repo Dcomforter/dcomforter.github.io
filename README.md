@@ -12,9 +12,7 @@ Welcome to my portfolio! This is a showcase of my skills, projects, and professi
 * **Resume Section:** A downloadable copy of my professional resume.
 * **Contact Form:** Integrated contact form for inquiries or collaboration requests.
 
-
-
-Credits:
+## Credits:
 
 	AJ
 	aj@lkn.io | @ajlkn
