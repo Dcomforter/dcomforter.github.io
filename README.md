@@ -9,8 +9,8 @@ Welcome to my portfolio! This is a showcase of my skills, projects, and professi
 * **Clean and Responsive Design:** Built with modern web technologies, ensuring seamless performance across various devices.
 * **Interactive UI/UX:** Leveraging HTML, CSS, and JavaScript for a visually appealing and user-friendly interface.
 * **Project Highlights:** Detailed breakdowns of projects showcasing skills in DevOps, CI/CD pipelines, cloud platforms, and more.
-* **Resume Section:** A downloadable copy of my professional resume.
-* **Contact Form:** Integrated contact form for inquiries or collaboration requests.
+<!-- * **Resume Section:** A downloadable copy of my professional resume.
+* **Contact Form:** Integrated contact form for inquiries or collaboration requests.-->
 
 ## Credits:
 
